@@ -1,3 +1,3 @@
 # Ryan-Rlanguage
-This is my R program 
-And hello world
+This is Ryan's R program 
+Also includes some useful codes
